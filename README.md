@@ -2,4 +2,4 @@
 
 Spring Boot back-end API for managing servers 
 
-![Alt text](image/server1.jpg "Optional title")
+<img src="/image/server1.png" alt="Alt text" title="Optional title">
